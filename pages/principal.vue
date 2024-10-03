@@ -79,7 +79,7 @@
     <v-dialog persistent v-model="dialog2" max-width="1200">
       <v-card>
         <div class="text-3xl pa-5" align="center">
-          Agendar Call com especialista
+          Agendar reunião com especialista
         </div>
         <div class="pa-5">
           Leonardo Soares Marques da Luz
